@@ -7,7 +7,7 @@ Actualmente, estudio  Desarrollo y Programación de Aplicaciones Multiplataforma
 En mi perfil de GitHub, podrás revisar algunos de los proyectos que he desarrollado durante mis estudios, los cuales espero resulten de tu interés. 
 
  
-TECNOLOGÍAS 
+### TECNOLOGÍAS 
 
 Java | JavaScrip | Java Swing | Android | Firebase | HTML | CSS | PL/SQL | SPSS | TABLEAU
 
