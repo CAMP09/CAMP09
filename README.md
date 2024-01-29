@@ -9,6 +9,6 @@ En mi perfil de GitHub, podrás revisar algunos de los proyectos que he desarrol
  
 ### TECNOLOGÍAS 
 
-Java | JavaScrip | Java Swing | Android | Firebase | HTML | CSS | PL/SQL | SPSS | TABLEAU
+Java | JavaScrip | Java Swing | Android | HTML | CSS | PL/SQL | SPSS | TABLEAU
 
 
