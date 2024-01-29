@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola, mi nombre es Carmen👋
 
-<!--
-**CAMP09/CAMP09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Con una sólida trayectoria de 14 años en el sector bancario, he desarrollado mi carrera en el ámbito de las finanzas y el análisis de datos.
 
-Here are some ideas to get you started:
+Actualmente, estudio  Desarrollo y Programación de Aplicaciones Multiplataforma. Mi meta es establecer una base sólida en programación con el propósito de redirigir mi carrera hacia el ámbito del Data Analyst y Data Science. Aunque debo reconocer que el mundo de la programación ha despertado en mí un interés que no me habría imaginado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+La posibilidad de combinar mi experiencia en el sector financiero, mi conocimiento y pasión por los mercados, con el análisis de datos, y la programación sería un hito significativo en mi carrera. 
+En mi perfil de GitHub, podrás revisar algunos de los proyectos que he desarrollado durante mis estudios, los cuales espero resulten de tu interés. 
+
+ 
+TECNOLOGÍAS 
+
+Java | JavaScrip | Java Swing | Android | Firebase | HTML | CSS | PL/SQL | SPSS | TABLEAU
+
+
